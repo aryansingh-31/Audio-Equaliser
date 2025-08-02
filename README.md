@@ -91,7 +91,3 @@ The code computes the FFT of the filtered audio signal to visualize its frequenc
 
 [MIT](https://github.com/adarsh-naik-2004/Audio-Equalizer-using-Matlab/blob/main/LICENSE)
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-manjunath-naik-a2004m/)
-
