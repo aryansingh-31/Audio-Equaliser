@@ -1,5 +1,5 @@
 
-# Hi, I'm Aryan! 👋
+# Hi, I'm Aryan!
 
 
 ## 🚀 About This Repository - 
